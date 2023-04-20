@@ -67,9 +67,11 @@ consider your actions and act decisively
 don't let them use you. When you can't do anything, try to take
 advantage of something. Use those who cannot act to serve you
 
+<<<<<<< HEAD
 15.
 
-Разбира се, мога да ви представя кратко всяка от "36 стратегеми" по-долу:
+========================================================
+36 стратегеми:
 
 1. Скрий се в шума - използвайте тълпата и анонимността,
 за да избягате от преследващите ви.
