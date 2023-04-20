@@ -67,8 +67,19 @@ consider your actions and act decisively
 don't let them use you. When you can't do anything, try to take
 advantage of something. Use those who cannot act to serve you
 
-<<<<<<< HEAD
-15.
+15. Lure the tiger from the forest to the plain - wait for
+the opponent to tire. Use someone or something to lure
+the opponent into a trap
+
+16. If you want to catch someone, let them go first - an opponent
+who is cornered will fight more. An opponent who has escape routes
+will not fight. The adversary must be pursued, not given an advantage,
+but also not cut off from all his ways.
+When the opponent's strength decreases, his will to fight will
+disappear. When the enemy army is scattered, then it can be captured
+even without bloodshed
+
+17. 
 
 ========================================================
 36 стратегеми:
